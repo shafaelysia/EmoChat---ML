@@ -12,18 +12,22 @@ EmoChat incorporates advanced machine learning techniques to enhance the user ex
 
 ## Datasets
 1. RAVDESS (Ryerson Audio-Visual Database of Emotional Speech and Song):
+
 Dataset Link: [RAVDESS](https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio)
 Description: RAVDESS contains high-quality audio recordings of actors portraying various emotions, including neutral, happy, sad, fear, angry, surprise, and disgust. The dataset offers a wide range of emotional expressions and vocal characteristics for training the model.
 
 2. CREMA-D (Crowd-sourced Emotional Multimodal Actors Dataset):
+
 Dataset Link: [CREMA-D](https://www.kaggle.com/datasets/ejlok1/cremad)
 Description: CREMA-D comprises audio and visual recordings of actors performing scripted scenarios with emotional expressions. The dataset includes a diverse set of emotional states, allowing the model to learn and recognize emotions such as neutral, happy, sad, anger, and more.
 
 3. SAVEE (Surrey Audio-Visual Expressed Emotion):
+
 Dataset Link: [SAVEE](https://www.kaggle.com/datasets/ejlok1/surrey-audiovisual-expressed-emotion-savee)
 Description: SAVEE contains speech audio recordings from four male actors expressing seven different emotions, including neutral, happiness, sadness, anger, fear, disgust, and surprise. The dataset provides a valuable resource for training the model to identify and differentiate various emotional states.
 
 4. TESS (Toronto Emotional Speech Set):
+
 Dataset Link: [TESS](https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess)
 Description: TESS comprises audio recordings of professionally trained actors simulating emotional expressions in sentences. The dataset covers emotions such as anger, disgust, fear, happiness, pleasant surprise, sadness, and neutral. TESS contributes to training the model to accurately recognize and classify these emotional states.
 

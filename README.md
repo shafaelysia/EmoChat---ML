@@ -48,7 +48,7 @@ The emotion recognition model in EmoChat is built using a combination of Convolu
 The model consists of multiple layers, including convolutional layers, recurrent layers, and dense layers. Each layer plays a crucial role in processing the input data and capturing relevant patterns. The model architecture is designed to learn and recognize emotional cues present in the voice notes.
 
 Below is a screenshot of the model summary, providing an overview of the layer configurations and parameter counts:
-![Model Summary]()
+![Model Summary](model_summary.png)
 
 ## Training and Evaluation
 During the training phase, the model undergoes an iterative process that involves forward propagation, backpropagation, and gradient descent optimization. This process aims to minimize the difference between predicted emotions and the ground truth labels in the training datasets. The model adjusts its internal parameters to learn the underlying relationships between the extracted audio features and the corresponding emotions.

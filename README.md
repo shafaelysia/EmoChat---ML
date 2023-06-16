@@ -2,7 +2,7 @@
 ## Speech Emotion Recognition Model
 EmoChat incorporates advanced machine learning techniques to enhance the user experience and enable emotion recognition in voice notes. By leveraging state-of-the-art algorithms and deep learning models, EmoChat can identify and analyze human emotions embedded in audio. EmoChat utilizes a machine learning model trained using TensorFlow, an open-source machine learning framework. The model is a combination of Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs) with Long Short-Term Memory (LSTM) units.
 
-## Tools and Library
+## Tools and Libraries
 * Jupyter Notebook
 * Tensorflow
 * Librosa
